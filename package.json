@@ -32,5 +32,14 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "Bernardo Caroli",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardocaroli/egghead-react-app.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/bernardocaroli/egghead-react-app/issues"
+  },
+  "homepage": "https://github.com/bernardocaroli/egghead-react-app#readme"
 }
